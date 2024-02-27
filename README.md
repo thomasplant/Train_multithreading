@@ -14,7 +14,7 @@ The crossing priority is given these rules.
 - If three trains cross back to back from one direction, send a train from the other direction to avoid starvation.
 
 --Example input file--
-w 15 9 \n
+w 15 9
 E 8 6
 E 9 5
 E 9 3
