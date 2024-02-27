@@ -14,12 +14,12 @@ The crossing priority is given these rules.
 - If three trains cross back to back from one direction, send a train from the other direction to avoid starvation.
 
 --Example input file--
-w 15 9
-E 8 6
-E 9 5
-E 9 3
-w 10 4
-e 11 5
+w 15 9  
+E 8 6  
+E 9 5  
+E 9 3  
+w 10 4  
+e 11 5  
 
 - w is for the west, and e is for the east.
 - Capitalisation denotes if it is a high-priority or low-priority train.
